@@ -1,0 +1,18 @@
+index.php
+koneksi.php
+login.php
+admin.php
+kriteria.php
+add-kriteria.php
+edit-kriteria.php
+del-kriteria.php
+alternatif.php
+add-alternatif.php
+edit-alternatif.php
+del-alternatif.php
+Buat Form Alternatif dan Kriteria.php
+add-alternatif-kriteria.php
+edit-alternatif-kriteria.php
+del-alternatif-kriteria.php
+laporan.php
+ganti-password.php
